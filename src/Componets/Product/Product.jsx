@@ -6,7 +6,7 @@ import { useDispatch } from 'react-redux'
 import { addcart } from '../../Services/Action/action'
 import { useNavigate } from 'react-router'
 import { parsedata } from './product.js'
-import '../Product/productData.css'
+// import '../Product/productData.css'
 
 
 
